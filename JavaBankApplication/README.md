@@ -1,4 +1,4 @@
-# Java Bank Application – OOP Project
+#Bank Application Project - JAVA
 
 This is a console-based banking system project developed in Java. It demonstrates core Object-Oriented Programming (OOP) concepts like inheritance, interfaces, polymorphism, and abstraction.
 
